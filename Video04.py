@@ -1,0 +1,1 @@
+print("\"Hello Code Chaser\nSubscribe\\My Channal\tLike My Videos")
